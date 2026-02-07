@@ -1,4 +1,4 @@
-# 🤖 Do Zero ao Mil. O Educador financeiro.
+# 🤖 Do Zero ao Mil. Educação financeira na prática de forma simples.
 
 ## Contexto
 
