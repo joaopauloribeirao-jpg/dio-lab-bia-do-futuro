@@ -1,4 +1,4 @@
-# 🤖 Do Zero ao Mil. Educação financeira na prática de forma simples.
+# 🤖 Do Zero ao Mil: Educação Financeira Simples para Quem Quer Começar
 
 ## Contexto
 
