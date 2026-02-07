@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+# 🤖 Do Zero ao Mil. O Educador financeiro.
 
 ## Contexto
 
