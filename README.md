@@ -62,8 +62,8 @@ Documente os prompts que definem o comportamento do seu agente:
 
 Desenvolva um **protótipo funcional** do seu agente:
 
-- Chatbot interativo (sugestão: Streamlit, Gradio ou similar)
-- Integração com LLM (via API ou modelo local)
+- Chatbot interativo (Streamlit)
+- Integração com LLM (modelo local)
 - Conexão com a base de conhecimento
 
 📁 **Pasta:** [`src/`](./src/)
