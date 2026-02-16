@@ -11,8 +11,6 @@ Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots
 
 ---
 
-## O Que Você Deve Entregar
-
 ### 1. Documentação do Agente
 
 Defina **o que** seu agente faz e **como** ele funciona:
