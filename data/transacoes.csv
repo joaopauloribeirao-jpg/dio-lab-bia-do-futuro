@@ -1,11 +1,57 @@
 data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+2025-01-01,Salário,receita,2500.00,entrada
+2025-01-01,Aluguel,moradia,900.00,saida
+2025-01-01,Internet,moradia,120.00,saida
+2025-01-01,Conta de Luz,moradia,165.40,saida
+2025-01-01,Supermercado,alimentacao,480.30,saida
+2025-01-01,Transporte,transporte,210.00,saida
+2025-01-01,Farmácia,saude,75.90,saida
+2025-01-01,Cartão de Crédito,fatura_cartao,180.00,saida
+2025-02-01,Salário,receita,2500.00,entrada
+2025-02-01,Aluguel,moradia,900.00,saida
+2025-02-01,Internet,moradia,120.00,saida
+2025-02-01,Conta de Luz,moradia,172.80,saida
+2025-02-01,Supermercado,alimentacao,510.60,saida
+2025-02-01,Transporte,transporte,195.00,saida
+2025-02-01,Farmácia,saude,132.40,saida
+2025-02-01,Cartão de Crédito,fatura_cartao,200.00,saida
+2025-03-01,Salário,receita,2500.00,entrada
+2025-03-01,Aluguel,moradia,900.00,saida
+2025-03-01,Internet,moradia,120.00,saida
+2025-03-01,Conta de Luz,moradia,158.90,saida
+2025-03-01,Supermercado,alimentacao,495.20,saida
+2025-03-01,Transporte,transporte,230.00,saida
+2025-03-01,Farmácia,saude,68.00,saida
+2025-03-01,Cartão de Crédito,fatura_cartao,220.00,saida
+2025-04-01,Salário,receita,2500.00,entrada
+2025-04-01,Aluguel,moradia,900.00,saida
+2025-04-01,Internet,moradia,120.00,saida
+2025-04-01,Conta de Luz,moradia,181.60,saida
+2025-04-01,Supermercado,alimentacao,530.40,saida
+2025-04-01,Transporte,transporte,205.00,saida
+2025-04-01,Farmácia,saude,94.30,saida
+2025-04-01,Cartão de Crédito,fatura_cartao,250.00,saida
+2025-05-01,Salário,receita,2500.00,entrada
+2025-05-01,Aluguel,moradia,900.00,saida
+2025-05-01,Internet,moradia,120.00,saida
+2025-05-01,Conta de Luz,moradia,169.20,saida
+2025-05-01,Supermercado,alimentacao,505.70,saida
+2025-05-01,Transporte,transporte,220.00,saida
+2025-05-01,Farmácia,saude,110.90,saida
+2025-05-01,Cartão de Crédito,fatura_cartao,150.00,saida
+2025-06-01,Salário,receita,2500.00,entrada
+2025-06-01,Aluguel,moradia,900.00,saida
+2025-06-01,Internet,moradia,120.00,saida
+2025-06-01,Conta de Luz,moradia,190.50,saida
+2025-06-01,Supermercado,alimentacao,545.10,saida
+2025-06-01,Transporte,transporte,215.00,saida
+2025-06-01,Farmácia,saude,88.60,saida
+2025-06-01,Cartão de Crédito,fatura_cartao,0.00,saida
+2025-07-01,Salário,receita,2500.00,entrada
+2025-07-01,Aluguel,moradia,900.00,saida
+2025-07-01,Internet,moradia,120.00,saida
+2025-07-01,Conta de Luz,moradia,175.30,saida
+2025-07-01,Supermercado,alimentacao,520.80,saida
+2025-07-01,Transporte,transporte,240.00,saida
+2025-07-01,Farmácia,saude,160.20,saida
+2025-07-01,Cartão de Crédito,fatura_cartao,0.00,saida
