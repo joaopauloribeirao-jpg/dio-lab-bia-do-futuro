@@ -5,17 +5,17 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Ele resolve o problema da falta de organização e controle do dinheiro, ajudando pessoas de baixa renda a sair do aperto financeiro e guardar seus primeiros R$ 1.000 de forma simples e prática.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+Ele resolve de forma proativa criando um plano simples, acompanhando gastos, cortando excessos e definindo metas práticas para gerar economia e aumentar renda desde o primeiro mês.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Pessoas de baixa renda que querem organizar o dinheiro, sair das dívidas e conquistar seus primeiros R$ 1.000 com orientação simples e prática.
 
 ---
 
