@@ -52,7 +52,7 @@ Acessível e direto, com linguagem simples, próxima da realidade das pessoas e 
 
 ```mermaid
 flowchart TD
-    A[Cliente] -->|Mensagem| B[Interface]
+    A[Usuário] -->|Mensagem| B[Interface]
     B --> C[LLM]
     C --> D[Base de Conhecimento]
     D --> C
@@ -64,10 +64,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Interface | [Streamlit](https://streamlit.io/) |
+| LLM | Ollama (Local) |
+| Base de Conhecimento | JSON/CSV com dados do cliente na pasta `data`|
+| Validação | Checagem de alucinações |
 
 ---
 
@@ -75,12 +75,19 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+- [ ] Agente só responde com base nos dados fornecidos
+- [ ] Respostas incluem fonte da informação
+- [ ] Quando não sabe, admite e redireciona
+- [ ] Não faz recomendações de investimento sem perfil do cliente
+- [ ] Oferece dicas práticas como possibilidades, sempre adaptáveis à realidade de cada pessoa.
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+- Não acessa dados bncários sensíveis
+- Não promete enriquecimento rápido
+- Não garante resultados financeiros
+- Não incentiva endividamento
+- Não usa linguagem técnica difícil
+- Não julga ou constrange a realidade financeira da pessoa
+
