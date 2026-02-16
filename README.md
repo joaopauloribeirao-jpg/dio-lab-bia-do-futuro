@@ -101,39 +101,36 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 | **Orquestração** | [LangChain](https://www.langchain.com/), [LangFlow](https://www.langflow.org/), [CrewAI](https://www.crewai.com/) |
 | **Diagramas** | [Mermaid](https://mermaid.js.org/), [Draw.io](https://app.diagrams.net/), [Excalidraw](https://excalidraw.com/) |
 
----
+## 📁 Estrutura do Repositório
 
-## Estrutura do Repositório
-
-```
-📁 lab-agente-financeiro/
+```text
+lab-agente-financeiro/
 │
-├── 📄 README.md
+├── README.md
 │
-├── 📁 data/                          # Dados mockados para o agente
-│   ├── historico_atendimento.csv     # Histórico de atendimentos (CSV)
-│   ├── perfil_investidor.json        # Perfil do cliente (JSON)
-│   ├── produtos_financeiros.json     # Produtos disponíveis (JSON)
-│   └── transacoes.csv                # Histórico de transações (CSV)
+├── data/
+│   ├── historico_atendimento.csv
+│   ├── perfil_gastos.json
+│   ├── solucao_financeira.json
+│   └── transacoes.csv
 │
-├── 📁 docs/                          # Documentação do projeto
-│   ├── 01-documentacao-agente.md     # Caso de uso e arquitetura
-│   ├── 02-base-conhecimento.md       # Estratégia de dados
-│   ├── 03-prompts.md                 # Engenharia de prompts
-│   ├── 04-metricas.md                # Avaliação e métricas
-│   └── 05-pitch.md                   # Roteiro do pitch
+├── docs/
+│   ├── 01-documentacao-agente.md
+│   ├── 02-base-conhecimento.md
+│   ├── 03-prompts.md
+│   ├── 04-metricas.md
+│   └── 05-pitch.md
 │
-├── 📁 src/                           # Código da aplicação
-│   └── app.py                        # (exemplo de estrutura)
+├── src/
+│   └── app.py
 │
-├── 📁 assets/                        # Imagens e diagramas
-│   └── ...
+├── assets/
+│   └── diagrama_arquitetura.png
 │
-└── 📁 examples/                      # Referências e exemplos
+└── examples/
     └── README.md
 ```
 
----
 
 ## Dicas Finais
 
