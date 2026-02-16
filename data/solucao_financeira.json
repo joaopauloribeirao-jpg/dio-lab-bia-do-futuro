@@ -1,0 +1,45 @@
+[
+  {
+    "nome": "Quitar Cartão de Crédito",
+    "categoria": "prioridade_financeira",
+    "risco": "alto (se não quitar)",
+    "valor_total": 1000.00,
+    "prazo_limite": "06/2026",
+    "estrategia": "Parcelar ou negociar juros e pagar no máximo em 6 meses",
+    "indicado_para": "Quem está pagando juros no rotativo e precisa sair da dívida"
+  },
+  {
+    "nome": "Plano de Pagamento Mensal",
+    "categoria": "organizacao",
+    "risco": "baixo",
+    "valor_mensal_sugerido": 170.00,
+    "duracao_meses": 6,
+    "objetivo": "Quitar os R$ 1.000 até 06/2026",
+    "indicado_para": "Quem precisa de disciplina e previsibilidade"
+  },
+  {
+    "nome": "Reserva Pós-Dívida",
+    "categoria": "reserva_emergencia",
+    "risco": "baixo",
+    "valor_meta": 1000.00,
+    "prazo_limite": "12/2027",
+    "valor_mensal_sugerido": 60.00,
+    "indicado_para": "Quem quer segurança financeira após sair da dívida"
+  },
+  {
+    "nome": "Conta com Rendimento Diário",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% do CDI ou próximo",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Guardar a reserva com liquidez imediata"
+  },
+  {
+    "nome": "Aumento de Renda Complementar",
+    "categoria": "estrategia",
+    "risco": "baixo",
+    "meta_extra_mensal": 200.00,
+    "objetivo": "Acelerar quitação e formação da reserva",
+    "indicado_para": "Quem pode fazer renda extra temporária"
+  }
+]
