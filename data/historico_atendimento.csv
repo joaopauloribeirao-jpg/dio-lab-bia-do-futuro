@@ -1,6 +1,7 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+2025-09-15,chat,Limite do cartão,Cliente perguntou sobre aumento de limite disponível,sim
+2025-09-22,telefone,Fatura em aberto,Cliente solicitou informações sobre valor mínimo e vencimento,sim
+2025-10-01,chat,Parcelamento de fatura,Cliente pediu simulação para parcelar o saldo do cartão,sim
+2025-10-12,chat,Juros do rotativo,Cliente solicitou explicação sobre cobrança de juros no cartão,sim
+2025-10-25,email,Contestação de compra,Cliente informou compra não reconhecida na fatura,sim
+2025-11-03,chat,Dívida acumulada,Cliente entrou no chat para entender o valor total da dívida e opções de negociação,sim
