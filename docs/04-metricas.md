@@ -1,7 +1,5 @@
 # Avaliação e Métricas
 
-## Como Avaliar seu Agente
-
 A avaliação pode ser feita de duas formas complementares:
 
 1. **Testes estruturados:** Você define perguntas e respostas esperadas;
