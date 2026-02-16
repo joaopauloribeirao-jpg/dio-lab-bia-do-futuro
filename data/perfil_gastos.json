@@ -1,0 +1,23 @@
+{
+  "nome": "João Silva",
+  "idade": 32,
+  "profissao": "Analista de Sistemas",
+  "renda_mensal": 2500.00,
+  "perfil_gastos": "incontrolado",
+  "objetivo_principal": "Liquidar divida com cartão",
+  "patrimonio_total": 0,
+  "reserva_emergencia_atual": 0,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Quitar divida do cartão de crédito",
+      "valor_necessario": 15000.00,
+      "prazo": "2026-06"
+    },
+    {
+      "meta": "Reserva de Emergência",
+      "valor_necessario": 1000.00,
+      "prazo": "2027-06"
+    }
+  ]
+}
