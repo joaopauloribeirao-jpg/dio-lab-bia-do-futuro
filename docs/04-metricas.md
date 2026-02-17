@@ -52,7 +52,7 @@ Após os testes, registre suas conclusões:
 A base de dados é essencial em diferentes contextos, pois permite organizar, armazenar e analisar informações de forma segura e estruturada. Sua utilização contribui para decisões mais assertivas, melhor gestão de processos e maior eficiência, tanto em ambientes empresariais quanto acadêmicos e tecnológicos.
 
 **O que pode melhorar:**
--Utilizar uma API integrada permitirá realizar testes com muito mais eficiência, garantindo maior agilidade, padronização e confiabilidade nos resultados.
+- Utilizar uma API integrada permitirá realizar testes com muito mais eficiência, garantindo maior agilidade, padronização e confiabilidade nos resultados.
 
 ---
 
